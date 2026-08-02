@@ -4,7 +4,7 @@
 
 A 6-page operational analytics dashboard covering a full e-commerce order lifecycle — from sales performance to logistics, payments, and customer reviews — built on a Brazilian e-commerce marketplace dataset.
 
-📥 **[Download the .pbix](ecommerce-operations-dashboard.pbix)** — requires [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop) (free) to open. Screenshots below cover every page.
+📥 **[Download the .pbix](ecommerce-operations.pbix)** — requires [Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/desktop) (free) to open. Screenshots below cover every page.
 
 ### Sales
 
