@@ -2,7 +2,7 @@
 
 Two interactive dashboards, published live on Tableau Public — no download or software required to explore them.
 
-## ✈️ Flight Delays and Cancellations
+## ✈️ Flight Delays Analyse
 
 **[Open live on Tableau Public →](https://public.tableau.com/app/profile/yehra/viz/flight-delays-analysis/Airlines)**
 
@@ -16,7 +16,7 @@ A two-page analysis of U.S. domestic flight delays and cancellations, covering b
 
 **Airports page** — a geographic view of average delay time by weekday and reason, a map of diverted flights, and a scatter plot comparing average taxi-in vs. taxi-out time by airport — useful for spotting airports with structurally slow ground operations rather than just weather-driven delays.
 
-## 🛒 EU Superstore Orders Dashboard
+## 🛒 EU Superstore Orders
 
 **[Open live on Tableau Public →](https://public.tableau.com/app/profile/yehra/viz/eu-superstore-orders-dashboard/EUSuperstoreOrdersDashboard)**
 
