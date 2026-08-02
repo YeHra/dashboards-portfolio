@@ -6,14 +6,14 @@ A collection of BI dashboards built in Tableau and Power BI, covering operationa
 
 | Dashboard | Live link |
 |---|---|
-| ✈️ Flight Delays and Cancellations | [Open on Tableau Public](https://public.tableau.com/app/profile/yehra/viz/flight-delays-analysis/Airlines) |
-| 🛒 EU Superstore Orders Dashboard | [Open on Tableau Public](https://public.tableau.com/app/profile/yehra/viz/eu-superstore-orders-dashboard/EUSuperstoreOrdersDashboard) |
+| ✈️ Flight Delays Analyse | [Open on Tableau Public](https://public.tableau.com/app/profile/yehra/viz/flight-delays-analysis/Airlines) |
+| 🛒 EU Superstore Orders | [Open on Tableau Public](https://public.tableau.com/app/profile/yehra/viz/eu-superstore-orders-dashboard/EUSuperstoreOrdersDashboard) |
 
 ## 📈 Power BI — [see full details →](power-bi/README.md)
 
 | Dashboard | Access |
 |---|---|
-| 🛍️ E-Commerce Operations Dashboard (6 pages: Sales, Logistics, Payments, Reviews, Sales Localisation) | [.pbix download](power-bi/ecommerce-operations-dashboard.pbix) + screenshots |
+| 🛍️ E-Commerce Operations (6 pages: Sales, Logistics, Payments, Reviews, Sales Localisation) | [.pbix download](power-bi/ecommerce-operations-dashboard.pbix) + screenshots |
 
 ## 📁 Repository Structure
 
@@ -23,11 +23,11 @@ dashboards-portfolio/
 ├── tableau/
 │   ├── README.md
 │   ├── flight-delays-analysis.twbx
-│   ├── eu-superstore-orders-dashboard.twbx
+│   ├── eu-superstore-orders.twbx
 │   └── screenshots/
 └── power-bi/
     ├── README.md
-    ├── ecommerce-operations-dashboard.pbix
+    ├── ecommerce-operations.pbix
     └── screenshots/
 ```
 
